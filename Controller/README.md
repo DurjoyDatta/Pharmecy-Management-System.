@@ -1,4 +1,5 @@
-# Pharmacy MANAGEMENT SYSTEM - 2019
+# Pharmacy MANAGEMENT SYSTEM - 2022
+# Created by - Durjoy Datta
 
 
 DBMS PROJECT - Using PHP, MySQL, HTML, CSS
